@@ -13,4 +13,5 @@ The final script (5.py) includes complete caching logic so that each Pokemon is 
 4.py - adds command-line argument handling so  user can run `python 4.py pikachu`
 
 5.py - adds SQLite caching, checks the db first, if pokemon isn't found, the script fetches from the API and stores the results
+
 pokemon.db - SQLite db automatically created by `5.py`. Stores cached pokemon data
