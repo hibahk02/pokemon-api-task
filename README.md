@@ -1,7 +1,7 @@
 # pokemon-api-task
 Technical advisory consultant task.
 
-Pycharm was used as the IDE. To run command lines in the pycharm terminal ensure that the correct python interpreter is stated (e.g. 3.11) and then state the script which is being run and the pokemon name. E.g. "C:\Users\hibah\AppData\Local\Programs\Python\Python311\python.exe" 5.py pikachu
+Pycharm was used as the IDE. To run command lines in the pycharm terminal ensure that the correct python interpreter is stated (e.g. 3.11) and then state the script which is being run and the pokemon name. E.g. "C:\Users\hibah\AppData\Local\Programs\Python\Python311\python.exe" 5.py pikachu. Important for tasks 4 & 5.
 
 This repository contains five Python scripts (1.py - 5.py) that implements functionality for interacting with the PokeAPI, extracting Pokemon data, command-line input and using a SQLite database.
 
